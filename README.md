@@ -10,7 +10,7 @@
 <h2 align="center">🛠️ Frameworks & Tools 🛠️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,vscode,git,react" />
+    <img src="https://skillicons.dev/icons?i=nodejs,github,vscode,git" />
 </div>
 
 <br/>
