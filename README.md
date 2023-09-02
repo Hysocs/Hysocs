@@ -7,10 +7,11 @@
 
 <h2 align="center">🔍 Specializations & Interests 🔍</h2>
 <p align="center">
-    My passion lies in optimizing code, aiming for the utmost efficiency and minimalism. I take pride in viewing projects from a user's perspective, which drives me to anticipate and address potential user errors or misconceptions. This unique approach positions me as a specialist in frontend debugging and user experience enhancement.
+    My passion lies in optimizing code, aiming for the utmost efficiency and minimalism. I take pride in viewing projects from a user's perspective, which drives me to anticipate and address potential user errors or misconceptions. This user-centric approach is backed by the success of my Lua project, which remains bug-free and error-free since its release over a year ago. My dedication to comprehensive testing ensures that every feature and potential point of failure undergoes rigorous scrutiny before deployment.
 </p>
 <br/>
 <hr/>
+
 
 
 <h2 align="center">🌐 Languages 🌐</h2>
