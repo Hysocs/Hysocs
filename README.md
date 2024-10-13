@@ -1,16 +1,17 @@
 <h2 align="center">📖 About Me 📖</h2>
 <p align="center">
-    I began my programming journey four years ago with JavaScript, creating scripts tailored for various tasks and applications. My insatiable curiosity led me to Lua, dedicating two years to honing my skills and crafting diverse functionalities. This hands-on experience paved the way for my introduction to Python, culminating in the development of <strong>CrossPixel</strong>, my inaugural Python project.
+    I started programming four years ago with JavaScript, building scripts for various tasks and applications. My interest in exploring different technologies led me to Lua, where I spent two years developing a range of functionalities. This experience eventually brought me to Python, and I completed my first project, <strong>CrossPixel</strong>, using the language.
 </p>
 
 ---
 
 <h2 align="center">🔍 Specializations & Interests 🔍</h2>
 <p align="center">
-    My passion lies in optimizing code, aiming for the utmost efficiency and minimalism. I take pride in viewing projects from a user's perspective, which drives me to anticipate and address potential user errors or misconceptions. This user-centric approach is backed by the success of my Lua project, which remains bug-free and error-free since its release over a year ago. My dedication to comprehensive testing ensures that every feature and potential point of failure undergoes rigorous scrutiny before deployment.
+    I focus on writing efficient, streamlined code and always aim to design with the end-user in mind. Anticipating user needs and potential issues is a key part of my process, which is reflected in the stability of my Lua project, which has been running smoothly without errors for over a year. I prioritize thorough testing to ensure every feature is fully functional and reliable before release.
 </p>
 <br/>
 <hr/>
+
 
 
 
