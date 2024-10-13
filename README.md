@@ -18,7 +18,7 @@
 <h2 align="center">🌐 Languages 🌐</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,lua" />
+    <img src="https://skillicons.dev/icons?i=kotlin,python,javascript,lua,java" />
 </div>
 
 <br/>
@@ -27,7 +27,7 @@
 <h2 align="center">🛠️ Frameworks & Tools 🛠️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,github,vscode,git,kotlin,idea" />
 </div>
 
 <br/>
