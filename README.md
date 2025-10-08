@@ -15,7 +15,7 @@
     Common requests I take on:
 </p>
 <div align="center">
-    • Small Minecraft mod serverside features / tweaks<br/>
+    • Small/Medium Minecraft serverside mods / tweaks<br/>
     • python utility scripts<br/>
     • Setup/installation support
 </div>
